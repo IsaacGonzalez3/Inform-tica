@@ -1,2 +1,2 @@
-# Inform-tica
+# Informatica
 Clases de informática
